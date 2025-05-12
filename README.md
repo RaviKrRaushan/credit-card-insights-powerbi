@@ -67,6 +67,7 @@ This Power BI project presents a detailed analysis of credit card transaction an
 |-----------|-------------|
 | `credit_card_insights_dashboard.pbix` | Interactive Power BI dashboard file |
 | `credit_card_insights_report.pdf` | Final report with metrics and visuals |
+| `credit.PNG` | Dashboard preview image |
 | `customer.PNG` | Dashboard preview image |
 | `README.md` | Project documentation file |
 
