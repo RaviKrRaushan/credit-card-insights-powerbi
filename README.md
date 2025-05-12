@@ -6,6 +6,7 @@ This Power BI project presents a detailed analysis of credit card transaction an
 
 ## 📸 Dashboard Preview
 
+![Dashboard Preview](credit.PNG)
 ![Dashboard Preview](customer.PNG)
 
 ---
